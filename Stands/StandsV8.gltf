@@ -1654,23 +1654,17 @@
 		{
 			"doubleSided":true,
 			"emissiveFactor":[
-				0.010039987532808008,
 				0,
+				0.35107113236869014,
 				1
 			],
 			"extensions":{
 				"KHR_materials_emissive_strength":{
-					"emissiveStrength":15.982136726379395
+					"emissiveStrength":11.99182391166687
 				}
 			},
 			"name":"Neon2",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0.007985465228557587,
-					0,
-					0.7992862462997437,
-					1
-				],
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
